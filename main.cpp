@@ -161,9 +161,9 @@ int main()
 {
     CircularList list;
 
-    list.append(10);
-    list.append(20);
-    list.append(30);
+    list.append(1);
+    list.append(2);
+    list.append(3);
 
     cout << "List forward: ";
     list.displayForward();
