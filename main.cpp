@@ -1,4 +1,4 @@
-//# Project-D---Problem-13.5---Heily-Cabrera
+//# Project-D---Problem-14.1---Heily-Cabrera
 
 // Turn the linked list implementation into a circular list: 
 // Have the previous pointer of the first node point to the last node, and the next pointer of the last node point to the first node. 
@@ -8,7 +8,7 @@
 //Programmer: Heily Cabrera
 //Tester: Audrey Tapia 
 
-// Group Project C //
+// Group Project D //
 /***** Members *****/
 /***** Ashley Jacobson *****/
 /***** Giannfranco Brance *****/
